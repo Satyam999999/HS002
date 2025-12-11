@@ -1,0 +1,34 @@
+[
+    {
+        "id": "loc_001",
+        "type": "store_location",
+        "name": "Starbucks Downtown",
+        "coordinates": {
+            "lat": 40.7128,
+            "lon": -74.006
+        },
+        "distance_from_user": "50m",
+        "amenities": [
+            "Indoor Seating",
+            "Heated Patio",
+            "Free WiFi"
+        ],
+        "current_promotions": [
+            "10% off Hot Cocoa for Gold Members",
+            "Buy 1 Get 1 Free on Croissants after 4 PM"
+        ]
+    },
+    {
+        "id": "pol_099",
+        "type": "company_policy",
+        "title": "Data Privacy & Redaction",
+        "content": "Customer support agents must never output customer phone numbers or credit card details. All PII must be redacted before processing."
+    },
+    {
+        "id": "prod_55",
+        "type": "product_inventory",
+        "item": "Winter Jacket",
+        "stock_status": "In Stock",
+        "location_in_store": "Aisle 4, Section B"
+    }
+]

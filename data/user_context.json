@@ -1,0 +1,14 @@
+{
+    "user_id": "cust_998877",
+    "name": "Deepak",
+    "membership_tier": "Gold",
+    "current_location": {
+        "lat": 40.7127,
+        "lon": -74.0059
+    },
+    "last_purchase": "Iced Coffee (2 days ago)",
+    "sensitive_info": {
+        "phone": "+1-555-0199",
+        "email": "deepak@example.com"
+    }
+}

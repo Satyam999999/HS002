@@ -1,6 +1,5 @@
 # Ignore Database and Data
 chroma_db_store/
-data/
 __pycache__/
 *.pyc
 .DS_Store
